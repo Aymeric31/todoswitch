@@ -8,7 +8,7 @@ var ENTER_KEY = 13;
 var ESCAPE_KEY = 27;
 
 var util = {
-	uuid: function () {
+	uuid: function () {	
 		var i, random;
 		var uudi = ""
 	}
@@ -20,6 +20,4 @@ $('#new-todo').keyup(function(e){
 		)});
 
 var tâche = // tâche entrée dans l'input
-
-
 // $(tâche)html;
