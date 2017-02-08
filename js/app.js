@@ -1,3 +1,6 @@
+alert("Ouai c'est pas faux!")
+
+
 $(function ($){
 	"use strict";
 });
@@ -11,3 +14,7 @@ var util = {
 		var uudi = ""
 	}
 }
+
+
+$('#new-todo').keyup(function(e){
+	console.log("ça marche!")});

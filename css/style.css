@@ -1,0 +1,16 @@
+body{
+	text-align: center;
+	background-color: purple;
+}
+
+h1{
+	color: white;
+	font-size: 100px;
+}
+
+#main{
+
+	margin-top: 50px;
+	color: white;
+	font-size: 25px;
+}
