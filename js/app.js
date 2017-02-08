@@ -1,5 +1,4 @@
-alert("Ouai c'est pas faux!")
-
+alert("Ouai c'est pas faux!");
 
 $(function ($){
 	"use strict";
@@ -17,4 +16,10 @@ var util = {
 
 
 $('#new-todo').keyup(function(e){
-	console.log("ça marche!")});
+	console.log("ça marche!"
+		)});
+
+var tâche = // tâche entrée dans l'input
+
+
+// $(tâche)html;
