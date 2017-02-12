@@ -1,6 +1,7 @@
 body {
 	text-align: center;
 	background-color: purple;
+	font-family: Open, sans-serif; 
 }
 
 h1 {
@@ -13,4 +14,7 @@ h1 {
 	margin-top: 50px;
 	color: white;
 	font-size: 25px;
+}
+li {
+	list-style: none;
 }
